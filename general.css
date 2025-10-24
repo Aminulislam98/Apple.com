@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Roboto, arial;
+  height: 1000px;
+  overflow-x: hidden;
+  object-fit: cover;
+  padding-top: 45px;
+}
+@media (min-width: 713px) and (max-width: 1070px) {
+  body {
+    padding-top: 0px;
+  }
+}
+@media (max-width: 712px) {
+  body {
+    padding-top: 0px;
+  }
+}
