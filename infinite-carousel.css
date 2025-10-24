@@ -48,7 +48,7 @@
   align-items: center;
   justify-content: center;
   gap: 1em;
-  animation: spin 59s infinite linear;
+  animation: spin 30s infinite linear;
   padding-right: 1em;
   cursor: pointer;
 }
